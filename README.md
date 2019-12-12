@@ -14,6 +14,9 @@ In addition, we also provide activity maps for each scene.
 ![k1](https://user-images.githubusercontent.com/831215/70445955-b0b39180-1a9c-11ea-8609-56aa46ade813.png)
 ![k2](https://user-images.githubusercontent.com/831215/70445957-b14c2800-1a9c-11ea-95f8-310d87ddd7f2.png)
 
+## 3D Trajectories
+
+![teaser2](https://user-images.githubusercontent.com/831215/70712246-a1725500-1ce3-11ea-9a6e-3216ee017653.png)
 
 ## Semantic Segmentation
 
