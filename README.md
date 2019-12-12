@@ -1,5 +1,7 @@
 # Bonn Activity Maps
 
+![teaser1](https://user-images.githubusercontent.com/831215/70712134-640dc780-1ce3-11ea-9b3e-5b5949b4ac37.png)
+
 The key prerequisite for accessing the huge potential of current machine learning techniques is the availability of large databases that capture the complex relations of interest.
 Previous datasets are focused on either 3D scene representations with semantic information, tracking of multiple persons and recognition of their actions, or activity recognition of a single person in captured 3D environments.
 We present Bonn Activity Maps, a large-scale dataset for human tracking, activity recognition and anticipation of multiple persons.
