@@ -8,6 +8,8 @@ We present Bonn Activity Maps, a large-scale dataset for human tracking, activit
 Our dataset comprises four different scenes that have been recorded by time-synchronized cameras each only capturing the scene partially, the reconstructed 3D models with semantic annotations, motion trajectories for individual people including 3D human poses as well as human activity annotations.
 In addition, we also provide activity maps for each scene.
 
+To access our dataset, please contact __bonn_activity_maps@iai.uni-bonn.de__.
+
 
 ## Kitchens
 
